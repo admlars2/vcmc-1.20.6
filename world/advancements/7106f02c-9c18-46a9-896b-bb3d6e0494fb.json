@@ -1,0 +1,35 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-05-18 16:44:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dark_forest": "2024-05-18 16:44:43 -0700",
+      "minecraft:forest": "2024-05-18 16:44:27 -0700",
+      "minecraft:deep_ocean": "2024-05-18 16:45:53 -0700",
+      "minecraft:river": "2024-05-18 16:44:47 -0700",
+      "minecraft:lukewarm_ocean": "2024-05-18 16:46:10 -0700",
+      "minecraft:stony_shore": "2024-05-18 16:44:34 -0700",
+      "minecraft:lush_caves": "2024-05-18 16:56:26 -0700",
+      "minecraft:old_growth_birch_forest": "2024-05-18 16:44:36 -0700",
+      "minecraft:ocean": "2024-05-18 16:44:48 -0700",
+      "minecraft:grove": "2024-05-18 16:44:26 -0700",
+      "minecraft:meadow": "2024-05-18 16:45:12 -0700",
+      "minecraft:birch_forest": "2024-05-18 16:44:35 -0700",
+      "minecraft:plains": "2024-05-18 16:45:35 -0700",
+      "minecraft:jagged_peaks": "2024-05-18 16:44:14 -0700",
+      "minecraft:deep_lukewarm_ocean": "2024-05-18 16:46:11 -0700"
+    },
+    "done": false
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2024-05-18 16:57:26 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3839
+}

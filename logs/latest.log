@@ -1,0 +1,148 @@
+[16:52:47] [main/INFO]: Loading Minecraft 1.20.6 with Fabric Loader 0.15.11
+[16:52:47] [main/INFO]: Loading 57 mods:
+	- entityculling 1.6.4
+	- fabric-api 0.98.0+1.20.6
+	   |-- fabric-api-base 0.4.40+80f8cf51b0
+	   |-- fabric-api-lookup-api-v1 1.6.59+e9d2a72bb0
+	   |-- fabric-biome-api-v1 13.0.25+be5d88beb0
+	   |-- fabric-block-api-v1 1.0.20+6dfe4c9bb0
+	   |-- fabric-block-view-api-v2 1.0.8+80f8cf51b0
+	   |-- fabric-blockrenderlayer-v1 1.1.50+80f8cf51b0
+	   |-- fabric-client-tags-api-v1 1.1.12+7f945d5bb0
+	   |-- fabric-command-api-v1 1.2.45+f71b366fb0
+	   |-- fabric-command-api-v2 2.2.24+80f8cf51b0
+	   |-- fabric-commands-v0 0.2.62+df3654b3b0
+	   |-- fabric-content-registries-v0 8.0.5+b82b2392b0
+	   |-- fabric-convention-tags-v1 2.0.4+7f945d5bb0
+	   |-- fabric-convention-tags-v2 2.1.0+70fd1b46b0
+	   |-- fabric-crash-report-info-v1 0.2.27+80f8cf51b0
+	   |-- fabric-data-attachment-api-v1 1.1.16+2a2c66b6b0
+	   |-- fabric-data-generation-api-v1 19.1.0+ad474493b0
+	   |-- fabric-dimensions-v1 2.1.68+94793913b0
+	   |-- fabric-entity-events-v1 1.6.8+e9d2a72bb0
+	   |-- fabric-events-interaction-v0 0.7.6+c5fc38b3b0
+	   |-- fabric-game-rule-api-v1 1.0.50+80f8cf51b0
+	   |-- fabric-item-api-v1 8.2.0+5bcea88ab0
+	   |-- fabric-item-group-api-v1 4.0.39+aae0949ab0
+	   |-- fabric-key-binding-api-v1 1.0.45+80f8cf51b0
+	   |-- fabric-keybindings-v0 0.2.43+df3654b3b0
+	   |-- fabric-lifecycle-events-v1 2.3.4+c5fc38b3b0
+	   |-- fabric-loot-api-v2 3.0.5+97f703dab0
+	   |-- fabric-message-api-v1 6.0.10+109a837cb0
+	   |-- fabric-model-loading-api-v1 1.0.12+80f8cf51b0
+	   |-- fabric-models-v0 0.4.11+9386d8a7b0
+	   |-- fabric-networking-api-v1 4.0.8+0dca0349b0
+	   |-- fabric-object-builder-api-v1 15.1.4+c5fc38b3b0
+	   |-- fabric-particles-v1 4.0.0+c5fc38b3b0
+	   |-- fabric-recipe-api-v1 5.0.3+c5fc38b3b0
+	   |-- fabric-registry-sync-v0 5.0.16+ad474493b0
+	   |-- fabric-renderer-api-v1 3.2.12+97f703dab0
+	   |-- fabric-renderer-indigo 1.5.12+80f8cf51b0
+	   |-- fabric-renderer-registries-v1 3.2.61+df3654b3b0
+	   |-- fabric-rendering-data-attachment-v1 0.3.46+73761d2eb0
+	   |-- fabric-rendering-fluids-v1 3.1.3+2c869dedb0
+	   |-- fabric-rendering-v0 1.1.64+df3654b3b0
+	   |-- fabric-rendering-v1 4.2.4+b21c00cbb0
+	   |-- fabric-resource-conditions-api-v1 4.1.0+83154f1bb0
+	   |-- fabric-resource-loader-v0 1.1.0+c0e5481fb0
+	   |-- fabric-screen-api-v1 2.0.21+7b70ea8ab0
+	   |-- fabric-screen-handler-api-v1 1.3.73+8c7b71c2b0
+	   |-- fabric-sound-api-v1 1.0.21+c5fc38b3b0
+	   |-- fabric-transfer-api-v1 5.1.6+c5fc38b3b0
+	   \-- fabric-transitive-access-wideners-v1 6.0.10+74e2f560b0
+	- fabric-language-kotlin 1.10.20+kotlin.1.9.24
+	   |-- org_jetbrains_kotlin_kotlin-reflect 1.9.24
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 1.9.24
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.9.24
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.9.24
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.24.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.5.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.6.3
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.6.3
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.6.3
+	- fabricloader 0.15.11
+	   \-- mixinextras 0.3.5
+	- ferritecore 6.1.1
+	- java 21
+	- lithium 0.12.3
+	- memoryleakfix 1.1.5
+	- minecraft 1.20.6
+	- voicechat 1.20.6-2.5.14
+	   \-- fabric-key-binding-api-v1 1.0.45+80f8cf51ff
+[16:52:48] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/atric/Desktop/TestServer/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[16:52:48] [main/INFO]: Compatibility level set to JAVA_16
+[16:52:48] [main/INFO]: Compatibility level set to JAVA_17
+[16:52:48] [main/INFO]: Loaded configuration file for Lithium: 124 options available, 1 override(s) found
+[16:52:48] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:52:49] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[16:52:49] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[16:52:49] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[16:52:49] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[16:52:54] [main/INFO]: [voicechat] Compatibility version 18
+[16:52:54] [main/INFO]: [voicechat] Loading plugins
+[16:52:54] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[16:52:54] [main/INFO]: [voicechat] Initializing plugins
+[16:52:54] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[16:52:54] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:52:55] [main/INFO]: Loaded 1305 recipes
+[16:52:55] [main/INFO]: Loaded 1414 advancements
+[16:52:55] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.218 ms
+[16:52:55] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[16:52:55] [Server thread/INFO]: Loading properties
+[16:52:55] [Server thread/INFO]: Default game type: SURVIVAL
+[16:52:55] [Server thread/INFO]: Generating keypair
+[16:52:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:52:56] [Server thread/INFO]: Using default channel type
+[16:52:56] [Server thread/INFO]: Preparing level "world"
+[16:52:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:52:57] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[16:52:57] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[16:52:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:52:58] [Server thread/INFO]: Time elapsed: 1230 ms
+[16:52:58] [Server thread/INFO]: Done (1.879s)! For help, type "help"
+[16:52:58] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[16:54:14] [Server thread/INFO]: Incorrect argument for command
+[16:54:14] [Server thread/INFO]: whitelist offesniveoof<--[HERE]
+[16:54:21] [Server thread/INFO]: Added OffensiveOOF to the whitelist
+[16:54:44] [User Authenticator #1/INFO]: UUID of player OffensiveOOF is 7106f02c-9c18-46a9-896b-bb3d6e0494fb
+[16:54:45] [Server thread/INFO]: OffensiveOOF[/127.0.0.1:5059] logged in with entity id 37 at (40.598039695279965, 257.54695255841494, -17.132212975529267)
+[16:54:45] [Server thread/INFO]: OffensiveOOF joined the game
+[16:54:45] [Server thread/INFO]: [voicechat] Received secret request of OffensiveOOF (18)
+[16:54:45] [Server thread/INFO]: [voicechat] Sent secret to OffensiveOOF
+[16:54:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7106f02c-9c18-46a9-896b-bb3d6e0494fb
+[16:54:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7106f02c-9c18-46a9-896b-bb3d6e0494fb
+[16:54:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player OffensiveOOF (7106f02c-9c18-46a9-896b-bb3d6e0494fb) successfully connected to voice chat
+[16:55:08] [Server thread/INFO]: The game is frozen
+[16:56:51] [Server thread/INFO]: Made OffensiveOOF a server operator
+[16:57:13] [Server thread/INFO]: Locating element minecraft:trial_chambers took 2 ms
+[16:57:16] [Server thread/INFO]: [OffensiveOOF: Teleported OffensiveOOF to 224.500000, 196.231891, 208.500000]
+[16:57:26] [Server thread/INFO]: OffensiveOOF has made the advancement [Minecraft: Trial(s) Edition]
+[16:57:56] [Server thread/INFO]: [OffensiveOOF: Made OffensiveOOF no longer a server operator]
+[17:00:56] [Server thread/INFO]: OffensiveOOF lost connection: Disconnected
+[17:00:56] [Server thread/INFO]: OffensiveOOF left the game
+[17:00:56] [Server thread/INFO]: [voicechat] Disconnecting client OffensiveOOF
+[17:02:58] [User Authenticator #2/INFO]: UUID of player OffensiveOOF is 7106f02c-9c18-46a9-896b-bb3d6e0494fb
+[17:02:58] [Server thread/INFO]: OffensiveOOF[/127.0.0.1:5173] logged in with entity id 1405 at (-112.07683862426511, 151.25592328440737, -35.640468122407874)
+[17:02:58] [Server thread/INFO]: OffensiveOOF joined the game
+[17:02:59] [Server thread/INFO]: [voicechat] Received secret request of OffensiveOOF (18)
+[17:02:59] [Server thread/INFO]: [voicechat] Sent secret to OffensiveOOF
+[17:02:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7106f02c-9c18-46a9-896b-bb3d6e0494fb
+[17:03:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7106f02c-9c18-46a9-896b-bb3d6e0494fb
+[17:03:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player OffensiveOOF (7106f02c-9c18-46a9-896b-bb3d6e0494fb) successfully connected to voice chat
+[17:04:29] [Server thread/INFO]: Made OffensiveOOF a server operator
+[17:06:29] [Server thread/INFO]: OffensiveOOF lost connection: Disconnected
+[17:06:29] [Server thread/INFO]: OffensiveOOF left the game
+[17:06:29] [Server thread/INFO]: [voicechat] Disconnecting client OffensiveOOF
+[17:27:57] [Server thread/INFO]: Stopping the server
+[17:27:57] [Server thread/INFO]: Stopping server
+[17:27:57] [Server thread/INFO]: Saving players
+[17:27:57] [Server thread/INFO]: Saving worlds
+[17:27:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:27:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:27:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:27:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:27:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:27:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:27:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
